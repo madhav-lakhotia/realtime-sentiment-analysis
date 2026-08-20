@@ -1,4 +1,4 @@
-```markdown
+
 # Real-Time Social Media Sentiment Analysis Dashboard
 
 An end-to-end NLP and data visualization pipeline designed to monitor, clean, and quantify public sentiment from text streams in real time.
